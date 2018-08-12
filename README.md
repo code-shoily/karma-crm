@@ -1,5 +1,14 @@
 # KarmaCrm
 
+KarmaCRM is a Phoenix/Elixir based customer relationship management system. The technology used are:
+
+ * Phoenix 1.3
+ * Absinthe
+ * React/Relay
+ 
+## Features
+[ TODO ]
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
